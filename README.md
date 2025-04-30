@@ -1,1 +1,3 @@
-# sms_gateway
+# sms_ai
+
+A new Flutter project.
